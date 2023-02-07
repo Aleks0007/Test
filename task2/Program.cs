@@ -3,6 +3,8 @@
 Пример:
 27 => 25, 27.8 => 30, 41.7 => 40. */
 
+// Задание решено ~  за 10 минут
+
 using static System.Console;
 
 class Program
